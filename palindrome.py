@@ -5,3 +5,4 @@ if(string==string[::-1]):
 else:  
       print("The letter is not a palindrome")  
 print('hello')
+print('practical exam')
